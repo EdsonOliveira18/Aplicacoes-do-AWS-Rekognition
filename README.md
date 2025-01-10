@@ -1,5 +1,7 @@
 # Aplicacoes-do-AWS-Rekognition
 
+![Configuração AWS](images/logo.jpg)
+
 Este projeto tem como objetivo demonstrar como utilizar o AWS Rekognition para detectar celebridades em imagens. A ferramenta AWS Rekognition permite identificar pessoas famosas com base em um banco de dados extenso de celebridades de diversas categorias, como entretenimento, política, esportes, entre outros.
 
 ## Descrição do Projeto
@@ -50,25 +52,17 @@ O projeto está dividido em várias etapas:
 
 ## Prints do Processo
 
-### 1. Configurando a Conta AWS
+### 1. Criando sua Conta AWS
 
-![Configuração AWS](images/aws_account_setup.png)
+![Configuração AWS](images/signup_page.png)
 
-### 2. Criando Bucket no S3
+### 2. Conhecendo os serviços do AWS Rekognition
 
-![Criando Bucket S3](images/s3_bucket_creation.png)
+![AWS Rekognition CLI](images/functions.png)
 
-### 3. Carregando Imagem no Bucket
+### 3. Analisando Resultados da análise
 
-![Upload Imagem](images/s3_upload_image.png)
-
-### 4. Chamando o AWS Rekognition
-
-![AWS Rekognition CLI](images/aws_rekognition_cli.png)
-
-### 5. Analisando Resultados
-
-![Resultados JSON](images/rekognition_result.png)
+![Resultados JSON](images/result.png)
 
 ## Insights e Possibilidades
 
@@ -83,7 +77,12 @@ O projeto está dividido em várias etapas:
 
 ## Conclusão
 
-Este projeto demonstra como o AWS Rekognition pode ser utilizado para detectar celebridades em imagens de forma automatizada. Com algumas etapas simples, é possível implementar soluções poderosas que fazem uso do reconhecimento de imagem. O serviço oferece uma grande oportunidade para empresas que lidam com conteúdo visual e precisam extrair informações automaticamente.
+Este projeto explica como o AWS Rekognition pode ser utilizado para detectar celebridades em imagens de forma automatizada. Com algumas etapas simples, é possível implementar soluções poderosas que fazem uso do reconhecimento de imagem. O serviço oferece uma grande oportunidade para empresas que lidam com conteúdo visual e precisam extrair informações automaticamente.
 
 Para mais detalhes, consulte a [documentação oficial do AWS Rekognition](https://docs.aws.amazon.com/rekognition/latest/dg/recognize-celebrities.html).
 
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-Edson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/edson-oliveira-9a580a231)](www.linkedin.com/in/edson-oliveira-9a580a231)
+[![Gmail Badge](https://img.shields.io/badge/-eedsoncarlos359@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eedsoncarlos359@gmail.com)](mailto:eedsoncarlos359@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/EdsonOliveira18?label=follow&style=social)](https://github.com/EdsonOliveira18)
